@@ -2,7 +2,7 @@ import React from 'react';
 import Badge from 'react-bootstrap/Badge'
 import { Link } from 'react-router-dom'
 import "../App.css";
-
+// adding material ui
 
 const Home = () => {
     return (
